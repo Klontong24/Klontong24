@@ -30,7 +30,9 @@ I'm always eager to connect with fellow engineers, makers, and tech enthusiasts.
 ## 🎉 Inspirational Quote
 
 _"Engineering is not only study of 45 subjects but it is moral studies of intellectual life."_ – Prakhar Srivastav
+
 _"The only true wisdom is in knowing you know nothing."_- Socrates
+
 _"It is possible to fly without motors, but not without knowledge and skill."_- Orville Wright
 
 ---
