@@ -23,9 +23,7 @@ I work with a variety of tools and technologies to bring my projects to life:
 
 I'm always eager to connect with fellow engineers, makers, and tech enthusiasts. Feel free to reach out!
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Personal Blog](https://yourblog.com)
+- [LinkedIn](https://www.linkedin.com/in/hardian-tri-pamungkas)
 
 ## 🎉 Inspirational Quote
 
